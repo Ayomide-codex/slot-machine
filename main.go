@@ -60,5 +60,5 @@ func main() {
 			}
 		}
 	}
-	fmt.Printf("You left with, $%d.\n", balance)
+	fmt.Printf("You're left with, $%d.\n", balance)
 }
